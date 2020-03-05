@@ -15,6 +15,15 @@
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/arabic.txt ***
 ! MISC
 translate.google.co.jp###sugg-item-ko
-||qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F187895%2Fprofile-images%2F1502276040?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=48&s=74fb4fe9f8eb4abdd0b8359116e55a39
 
+! my icons
+https://avatars1.githubusercontent.com/u/45155403?s=460&v=4
 https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F275986%2Fprofile-images%2F1544860753?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=300&s=7dbb70497fcbad1d8a08c68999e7c14d
+https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F275986%2Fprofile-images%2F1544860753?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=48&s=f6f4c8e51929584e19bf0448d4ebcfc4
+
+! qiita frequent users icon
+https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F187895%2Fprofile-images%2F1502276040?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=75&s=623d5267288e472cc686e2a78bc3e5d5
+https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F187895%2Fprofile-images%2F1502276040?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=48&s=74fb4fe9f8eb4abdd0b8359116e55a39
+
+! qiita header
+##.st-HeaderContainer
