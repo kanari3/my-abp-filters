@@ -26,4 +26,4 @@ https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.a
 https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F187895%2Fprofile-images%2F1502276040?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=48&s=74fb4fe9f8eb4abdd0b8359116e55a39
 
 ! qiita header
-##.st-HeaderContainer
+! ##.st-HeaderContainer
