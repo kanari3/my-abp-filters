@@ -28,3 +28,6 @@ https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.a
 ! qiita header
 ! ##.st-HeaderContainer
 
+! mercari
+mercari.com##.pc-header-nav-count
+mercari.com##.mypage-nav-number
