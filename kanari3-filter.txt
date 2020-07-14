@@ -31,3 +31,8 @@ https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.a
 ! mercari
 mercari.com##.pc-header-nav-count
 mercari.com##.mypage-nav-number
+
+! tokyo-ame
+https://tokyo-ame.jwa.or.jp/ja/images/bg/spacer_left.png
+https://tokyo-ame.jwa.or.jp/ja/images/bg/spacer_right.png
+
