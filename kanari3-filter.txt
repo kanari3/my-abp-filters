@@ -35,4 +35,4 @@ mercari.com##.mypage-nav-number
 ! tokyo-ame
 https://tokyo-ame.jwa.or.jp/ja/images/bg/spacer_left.png
 https://tokyo-ame.jwa.or.jp/ja/images/bg/spacer_right.png
-
+https://tokyo-ame.jwa.or.jp/ja/images/map/background.png
