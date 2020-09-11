@@ -42,3 +42,9 @@ jmty.jp##div.gtm_post_index
 
 ! twitter
 twitter.com##.css-1dbjc4n.r-1uaug3w.r-1uhd6vh.r-1ylenci.r-1phboty.r-rs99b7.r-ku1wi2.r-1bro5k0.r-1udh08x
+
+! wikipedia
+ja.wikipedia.org##.frb-message
+ja.wikipedia.org###frb-form
+ja.wikipedia.org###frb-inline
+ja.wikipedia.org##.frb.frb-rml-enabled.frb-country-JP
