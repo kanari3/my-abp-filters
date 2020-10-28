@@ -51,3 +51,6 @@ ja.wikipedia.org##.frb-message
 ja.wikipedia.org###frb-form
 ja.wikipedia.org###frb-inline
 ja.wikipedia.org##.frb.frb-rml-enabled.frb-country-JP
+
+egao-inc.co.jp###sidebar
+egao-inc.co.jp##.sideber.sidebar_style3
