@@ -54,3 +54,6 @@ ja.wikipedia.org##.frb.frb-rml-enabled.frb-country-JP
 
 egao-inc.co.jp###sidebar
 egao-inc.co.jp##.sideber.sidebar_style3
+
+! CircleCI
+app.circleci.com###launcher
