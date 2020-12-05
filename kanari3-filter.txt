@@ -27,6 +27,7 @@ https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.a
 
 ! qiita header
 ! ##.st-HeaderContainer
+qiita.com##.tl-DummyItemList.p-2
 
 ! mercari
 mercari.com##.pc-header-nav-count
