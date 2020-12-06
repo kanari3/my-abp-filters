@@ -28,6 +28,7 @@ https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fqiita-image-store.s3.a
 ! qiita header
 ! ##.st-HeaderContainer
 qiita.com##.tl-DummyItemList.p-2
+qiita.com##.css-ciekyd.e7ur4nk0
 
 ! mercari
 mercari.com##.pc-header-nav-count
@@ -58,3 +59,6 @@ egao-inc.co.jp##.sideber.sidebar_style3
 
 ! CircleCI
 app.circleci.com###launcher
+
+! google
+developer.android.com##.devsite-banner.devsite-banner-announcement
