@@ -1,0 +1,13 @@
+[LINE ad filter]
+! Checksum: 964tELKJR0hEoEPgunjh/g
+! Version: 202311151318
+! Title: kanari3 line filters2
+! Last modified: 15 Nov 2023 13:18 JST
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/kanari3/my-abp-filters
+!
+! MISC
+
+ad.jorudan.co.jp
+graph.facebook.com
+sch.line.me
